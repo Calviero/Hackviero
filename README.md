@@ -42,7 +42,7 @@ Es un único archivo Python (`hackviero.py`) con **una sola dependencia**: [`ric
 ### Kali Linux / Debian / Ubuntu
 
 ```bash
-git clone https://github.com/TU_USUARIO/Hackviero.git
+git clone https://github.com/Calviero/Hackviero.git
 cd Hackviero
 bash install.sh
 hackviero
