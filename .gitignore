@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Tests y herramientas
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Informes generados por Hackviero (pueden contener datos de objetivos)
+informe*.json
+scan*.json
+
+# Editores / sistema
+.vscode/
+.idea/
+.DS_Store
